@@ -8,7 +8,6 @@ To get started with theme development, this is what you'll need:
 
 - [deno](https://deno.land/#installation)
 - [resumerise_cli](https://deno.land/x/resumerise_cli)
-- [resumerise_theme_retro](https://deno.land/x/resumerise_theme_retro)
 
 ### Serve theme
 
